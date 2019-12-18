@@ -1,5 +1,9 @@
-Fluent Python: example code
+Fluent Python: example code with annotation by John Park 
 ===========================
+
+This repo is forked to study Fluent Python and annotate the code for future use and practice. 
+
+============================
 
 Example code for the book `Fluent Python`_ by Luciano Ramalho (O'Reilly, 2014).
 
